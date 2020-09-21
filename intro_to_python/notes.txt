@@ -1,0 +1,13 @@
+mutable - modify the structure eg list, tuple, dict
+immutable - cannot be modified
+
+KEY THING TO NOTE IN LISTS
+*indexing
+*slicing
+*manipulation methods || operation
+*List comprehension
+
+KEY THINGS TO NOTE IN TUPLES
+*indexing
+*slicing
+.count
